@@ -3,6 +3,8 @@
 
 # Java doc file
 *.html
+*.js
+*.css
 
 # Log file
 *.log
